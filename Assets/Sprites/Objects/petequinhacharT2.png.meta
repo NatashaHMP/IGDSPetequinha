@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: c069fdac70a6f5b4fa6ef02b3736ba82
+timeCreated: 1501264099
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: petequinhacharT2_0
+    21300002: petequinhacharT2_1
+    21300004: petequinhacharT2_2
+    21300006: petequinhacharT2_3
+    21300008: petequinhacharT2_4
+    21300010: petequinhacharT2_5
+    21300012: petequinhacharT2_6
+    21300014: petequinhacharT2_7
+    21300016: petequinhacharT2_8
+    21300018: petequinhacharT2_9
+    21300020: petequinhacharT2_10
+    21300022: petequinhacharT2_11
+    21300024: petequinhacharT2_12
+    21300026: petequinhacharT2_13
+    21300028: petequinhacharT2_14
+    21300030: petequinhacharT2_15
+    21300032: petequinhacharT2_16
+    21300034: petequinhacharT2_17
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: petequinhacharT2_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 796
+        width: 76
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: petequinhacharT2_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 790
+        width: 76
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: petequinhacharT2_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 796
+        width: 77
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: petequinhacharT2_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 793
+        width: 84
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: petequinhacharT2_4
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 812
+        width: 94
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: petequinhacharT2_5
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 794
+        width: 77
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: petequinhacharT2_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 507
+        width: 76
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: petequinhacharT2_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 499
+        width: 76
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: petequinhacharT2_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 505
+        width: 77
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: petequinhacharT2_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 502
+        width: 84
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: petequinhacharT2_10
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 509
+        width: 94
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: petequinhacharT2_11
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 505
+        width: 77
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: petequinhacharT2_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 163
+        width: 76
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: petequinhacharT2_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 155
+        width: 76
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: petequinhacharT2_14
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 161
+        width: 77
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: petequinhacharT2_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 158
+        width: 84
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: petequinhacharT2_16
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 170
+        width: 94
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: petequinhacharT2_17
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 162
+        width: 77
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
